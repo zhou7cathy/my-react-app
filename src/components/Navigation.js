@@ -1,24 +1,50 @@
 import React from 'react'
 
-export default function Navigation() {
+function Navigation({ currentPage, handlePageChange }) {
   return (
     <div>
       <nav>
-        <ul>
-          <li>
-            <a href="#About-me">About Me</a>
+        <ul className="nav nav-tabs">
+          <li className="nav-item">
+            <a
+              href="#About-me"
+              onClick={() => handlePageChange('AboutMe')}
+              className={currentPage === 'AboutMe' ? 'nav-link active' : 'nav-link'}
+            >
+              About Me
+            </a>
           </li>
-          <li>
-            <a href="#Work">Portfolio</a>
+          <li className="nav-item">
+            <a
+              href="#Portfolio"
+              onClick={() => handlePageChange('Portfolio')}
+              className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+            >
+              Portfolio
+            </a>
           </li>
-          <li>
-            <a href="#Contact-me">Contact Me</a>
+          <li className="nav-item">
+            <a
+              href="#Contact"
+              onClick={() => handlePageChange('Contact')}
+              className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+            >
+              Contact Me
+            </a>
           </li>
-          <li>
-            <a href="#Contact-me">Resume</a>
+          <li className="nav-item">
+            <a
+              href="#Resume"
+              onClick={() => handlePageChange('Resume')}
+              className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+            >
+              Resume
+            </a>
           </li>
         </ul>
       </nav>
     </div>
   )
 }
+
+export default Navigation;
