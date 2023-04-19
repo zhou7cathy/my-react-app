@@ -5,7 +5,7 @@ import resume from '../../assets/Resume.pdf'
 export default function Resume() {
   return (
     <div>
-      <h1>Resume</h1>
+      <h2>Resume</h2>
       <p>
         Download my <a href={resume} download="Resume">resume</a>
       </p>
