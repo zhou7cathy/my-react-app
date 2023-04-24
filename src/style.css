@@ -24,6 +24,7 @@ h1 {
 
 h2 {
   margin-bottom: 20px !important;
+  font-family: 'Montez', cursive;
 }
 
 h5 {
@@ -34,6 +35,17 @@ h5 {
   margin:5% 10%;
 }
 
+.download {
+  width: 115px;
+  height: 25px;
+  background: black;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: white !important;
+  font-weight: bold;
+  line-height: 25px;
+}
 .yanfang {
   width: 20%;
   margin-top: 20px;

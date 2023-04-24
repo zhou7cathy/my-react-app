@@ -7,8 +7,7 @@ export default function Resume() {
     <div className='content'>
       <h2>Resume</h2>
       <p>
-        Download my resume 
-        <button type="button" class="btn btn-dark" onclick={resume} download="Resume"> Download</button>
+        Download my resume <a className='download' href={resume} download="Resume">Download</a>
       </p>
       <h3>Front-end Proficiencies</h3>
       <ul>
