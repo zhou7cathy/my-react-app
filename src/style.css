@@ -1,32 +1,45 @@
 *{
-  background-color:rgb(184, 170, 172);
+  background-color:rgb(244, 234, 235);
+  font-family: Poppins,sans-serif;
 }
 
 a {
-  text-decoration: none;
+  color:black !important;
+  text-decoration: none !important;
 }
 
-img{
+img {
   width: 90%;
-  margin-top: 20px;
+  margin: 10px;
   object-fit: cover;
   opacity: 0.8;
 }
 
 h1 {
-  background-color: rgb(57, 47, 53);
-  color: rgb(205, 143, 154);
-}
-
-nav ul li a:hover{
-  color: pink;
-  text-decoration: underline;
-}
-
-.form {
-  margin: 20px;
-  }
+  padding: 5px 20px;
+  background-color: white;
+  color: black;
   
+}
+
+h2 {
+  margin-bottom: 20px !important;
+}
+
+h5 {
+  margin-top: 10px;
+}
+
+.content {
+  margin:5% 10%;
+}
+
+.yanfang {
+  width: 20%;
+  margin-top: 20px;
+  object-fit: cover;
+}
+
 .form input {
   display: block;
   margin-top: 5px;
@@ -34,13 +47,63 @@ nav ul li a:hover{
   width: 50%;
 }
 
+.footer {
+  text-align: center;
+}
+
+.footer a {
+    color:black !important;
+    text-decoration: none !important;
+}
 .card-container{
   display: flex;
   flex-wrap: wrap;
   align-content: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
-.github{
+.cards {
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  max-width: 45%;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.cards h6 {
+  text-align: left;
+  margin:5%
+}
+
+.cards:hover {
+  /* max-width: 50%; */
+  transform: scale(1.025, 1.025);
+  transition-duration: 300ms;
+}
+
+.btn {
+  margin-left: 5px;
+}
+
+.github {
   max-width: 10%;
 }
+
+.icon {
+  width: 20px;
+}
+
+#yanfang {
+  width: 5%;
+  margin-top: 20px;
+  object-fit: cover;
+}
+
+#message {
+  height:200px;
+  width: -webkit-fill-available;
+  border-width: 2px;
+}
+

@@ -51,7 +51,7 @@ function Form() {
   };
 
   return (
-    <div>
+    <div className='content'>
       <h2>Contact Me</h2>
       <form className="form">
         <label>Name:</label>
@@ -60,6 +60,7 @@ function Form() {
           name="name"
           onChange={handleInputChange}
           type="text"
+          placeholder='Enter Your Name'
         />
         <label>Email:</label>
         <input
@@ -67,13 +68,16 @@ function Form() {
           name="email"
           onChange={handleInputChange}
           type="email"
+          placeholder='Enter Your Email'
         />
         <label>Message:</label>
-        <input
+        <textarea
+          id='message'
           value={message}
           name="message"
           onChange={handleInputChange}
           type="message"
+          placeholder='Enter Your Message'
         />
         <button type="button" onClick={handleFormSubmit}>
           Submit

@@ -4,10 +4,11 @@ import resume from '../../assets/Resume.pdf'
 
 export default function Resume() {
   return (
-    <div>
+    <div className='content'>
       <h2>Resume</h2>
       <p>
-        Download my <a href={resume} download="Resume">resume</a>
+        Download my resume 
+        <button type="button" class="btn btn-dark" onclick={resume} download="Resume"> Download</button>
       </p>
       <h3>Front-end Proficiencies</h3>
       <ul>

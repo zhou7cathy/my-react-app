@@ -28,7 +28,7 @@ export default function Header() {
 
   return (
     <div>
-      <h1>YZ Portfolio</h1>
+      <h1>Yanfang Zhou</h1>
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>
