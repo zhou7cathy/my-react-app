@@ -1,7 +1,7 @@
 import React,{ useState } from 'react'
 
 //import a helper function that will check if the email and message is valid
-import { validateEmail, checkMessage } from '../../utils/helpers';
+import { validateEmail, checkMessage, checkName } from '../../utils/helpers';
 
 function Form() {
   // Create state variables for the fields in the form
@@ -29,6 +29,14 @@ function Form() {
   const handleFormSubmit = (e) => {
     // Preventing the default behavior of the form submit (which is to refresh the page)
     e.preventDefault();
+
+    // Check to see if the name is not valid
+    if (!checkName(name)) {
+      setErrorMessage(
+        `Name is required.`
+      );
+      return;
+    }
 
     // Check to see if the email is not valid 
     if (!validateEmail(email)) {

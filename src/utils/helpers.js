@@ -7,3 +7,8 @@ export function checkMessage(message) {
   const msg = /\w/;
   return msg.test(message);
 }
+
+export function checkName(name) {
+  const msg = /\w/;
+  return msg.test(name);
+}
