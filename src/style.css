@@ -110,7 +110,7 @@ img {
 .download:hover {
   transform: scale(1.025, 1.025) !important;
   transition-duration: 300ms !important;
-  color: aqua !important;
+  color: rgb(199, 157, 112) !important;
 }
 
 .form input {
