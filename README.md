@@ -39,5 +39,5 @@ Application is covered under MIT https://opensource.org/licenses/MIT
 Link to deployed application: https://zhou7cathy.github.io/my-react-portfolio/
 
 ## Contact
-Link to my GitHub profile: https://github.com/zhou7cathy
+Link to my GitHub profile: https://github.com/zhou7cathy <br />
 Email me with any questions: zhou7cathy@gmail.com
