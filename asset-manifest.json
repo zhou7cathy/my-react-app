@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.1a55465e.css",
+    "main.css": "/my-react-portfolio/static/css/main.e24f3430.css",
     "main.js": "/my-react-portfolio/static/js/main.187a979d.js",
     "static/media/travelpedia.png": "/my-react-portfolio/static/media/travelpedia.4e181dde0fbfbebf3c1b.png",
     "static/media/Yanfang.png": "/my-react-portfolio/static/media/Yanfang.27ac2ea6bca3f540a680.png",
@@ -12,11 +12,11 @@
     "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.f6733dd10555ffd6535e.png",
     "static/media/work-day-scheduler.gif": "/my-react-portfolio/static/media/work-day-scheduler.f46b241fc8ce3b7ddac8.gif",
     "index.html": "/my-react-portfolio/index.html",
-    "main.1a55465e.css.map": "/my-react-portfolio/static/css/main.1a55465e.css.map",
+    "main.e24f3430.css.map": "/my-react-portfolio/static/css/main.e24f3430.css.map",
     "main.187a979d.js.map": "/my-react-portfolio/static/js/main.187a979d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a55465e.css",
+    "static/css/main.e24f3430.css",
     "static/js/main.187a979d.js"
   ]
 }
