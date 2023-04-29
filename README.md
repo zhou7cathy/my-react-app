@@ -1,4 +1,4 @@
-# text-editor
+# my-react-portfolio
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
