@@ -18,7 +18,7 @@ export default function AboutMe() {
         I am currently pursuing a career as a full-stack developer. I have undergone a professional training at UWA coding boot camp and have earned a certificate in full-stack web development. This portfolio showcases my proficiency and expertise acquired throughout the course.
       </h5>
       <h5>
-       I possess a diverse skill set that encompasses both frontend and backend technologies. My experience in group projects has honed my communication, collaboration, problem-solving, and analytical skills. I thrive in fast-paced and diverse team environments. I am highly motivated, driven to learn, and always seeking opportunities to enhance my skills and knowledge.
+        I possess a diverse skill set that encompasses both frontend and backend technologies. My experience in group projects has honed my communication, collaboration, problem-solving, and analytical skills. I thrive in fast-paced and diverse team environments. I am highly motivated, driven to learn, and always seeking opportunities to enhance my skills and knowledge.
       </h5>
     </div>
   )
