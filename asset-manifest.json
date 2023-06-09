@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.e24f3430.css",
-    "main.js": "/my-react-portfolio/static/js/main.f520c704.js",
+    "main.css": "/my-react-portfolio/static/css/main.88463d96.css",
+    "main.js": "/my-react-portfolio/static/js/main.d5887b3b.js",
     "static/media/travelpedia.png": "/my-react-portfolio/static/media/travelpedia.4e181dde0fbfbebf3c1b.png",
     "static/media/Yanfang.png": "/my-react-portfolio/static/media/Yanfang.27ac2ea6bca3f540a680.png",
+    "static/media/pet-resq.png": "/my-react-portfolio/static/media/pet-resq.10d1436a566c7311105b.png",
     "static/media/Resume.pdf": "/my-react-portfolio/static/media/Resume.37ec8667ff05b6d5168c.pdf",
     "static/media/stack-overflow.png": "/my-react-portfolio/static/media/stack-overflow.ed360ec0874b976871a0.png",
     "static/media/The-tech-blog.png": "/my-react-portfolio/static/media/The-tech-blog.a16acc394c8cb8562c67.png",
     "static/media/weather-dashboard.png": "/my-react-portfolio/static/media/weather-dashboard.8a5a084aeeb8c7061483.png",
     "static/media/SwoleMate-and-BuffBae.png": "/my-react-portfolio/static/media/SwoleMate-and-BuffBae.c6209f1dc552c68f4a45.png",
     "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.f6733dd10555ffd6535e.png",
-    "static/media/work-day-scheduler.gif": "/my-react-portfolio/static/media/work-day-scheduler.f46b241fc8ce3b7ddac8.gif",
+    "static/media/email.png": "/my-react-portfolio/static/media/email.7a2bec18df13340dd2e2.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.e24f3430.css.map": "/my-react-portfolio/static/css/main.e24f3430.css.map",
-    "main.f520c704.js.map": "/my-react-portfolio/static/js/main.f520c704.js.map"
+    "main.88463d96.css.map": "/my-react-portfolio/static/css/main.88463d96.css.map",
+    "main.d5887b3b.js.map": "/my-react-portfolio/static/js/main.d5887b3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24f3430.css",
-    "static/js/main.f520c704.js"
+    "static/css/main.88463d96.css",
+    "static/js/main.d5887b3b.js"
   ]
 }
