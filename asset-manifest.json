@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.871b9c3a.css",
-    "main.js": "/my-react-portfolio/static/js/main.d9a65674.js",
+    "main.css": "/my-react-portfolio/static/css/main.5608c3c3.css",
+    "main.js": "/my-react-portfolio/static/js/main.c232c8ac.js",
     "static/media/travelpedia.png": "/my-react-portfolio/static/media/travelpedia.4e181dde0fbfbebf3c1b.png",
     "static/media/Yanfang.png": "/my-react-portfolio/static/media/Yanfang.27ac2ea6bca3f540a680.png",
     "static/media/pet-resq.png": "/my-react-portfolio/static/media/pet-resq.10d1436a566c7311105b.png",
@@ -13,11 +13,11 @@
     "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.f6733dd10555ffd6535e.png",
     "static/media/email.png": "/my-react-portfolio/static/media/email.7a2bec18df13340dd2e2.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.871b9c3a.css.map": "/my-react-portfolio/static/css/main.871b9c3a.css.map",
-    "main.d9a65674.js.map": "/my-react-portfolio/static/js/main.d9a65674.js.map"
+    "main.5608c3c3.css.map": "/my-react-portfolio/static/css/main.5608c3c3.css.map",
+    "main.c232c8ac.js.map": "/my-react-portfolio/static/js/main.c232c8ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.871b9c3a.css",
-    "static/js/main.d9a65674.js"
+    "static/css/main.5608c3c3.css",
+    "static/js/main.c232c8ac.js"
   ]
 }
