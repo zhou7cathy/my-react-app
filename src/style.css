@@ -40,6 +40,9 @@ p{
   font-family: 'Mali', cursive;
 }
 
+.email {
+  text-decoration: underline;
+}
 .proficiencies {
   display: flex;
   flex-wrap: wrap;

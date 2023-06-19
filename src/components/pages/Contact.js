@@ -61,6 +61,7 @@ function Form() {
   return (
     <div className='content'>
       <h2>Contact Me</h2>
+      <h6 className='email'><a href='mailto:zhou7cathy@gmail.com'>zhou7cathy@gmail.com</a> </h6>
       <form className="form">
         <label>Name:</label>
         <input
